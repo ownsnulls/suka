@@ -1,4 +1,3 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/base:ubuntu-20.04",
-  "privileged": true
+  "image": "mcr.microsoft.com/devcontainers/python"
 }
